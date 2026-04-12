@@ -1,0 +1,3 @@
+/workspaces/Count_Car/build/CMakeFiles/CarCounter.dir
+/workspaces/Count_Car/build/CMakeFiles/edit_cache.dir
+/workspaces/Count_Car/build/CMakeFiles/rebuild_cache.dir
